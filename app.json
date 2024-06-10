@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tarefas",
-    "slug": "tarefas",
+    "name": "gestao-tarefas",
+    "slug": "gestao-tarefas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
